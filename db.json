@@ -1,0 +1,124 @@
+{
+  "filmes": [
+    {
+      "titulo": "Coringa",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-10-03T03:00:00.000Z",
+      "descricao": "Isolado, intimidado e desconsiderado pela sociedade, o fracassado comediante Arthur Fleck inicia seu caminho como uma mente criminosa após assassinar três homens em pleno metrô. Sua ação inicia um movimento popular contra a elite de Gotham City, da qual Thomas Wayne é seu maior representante.",
+      "nota": 8.7,
+      "urlIMDb": "https://www.imdb.com/title/tt7286456/",
+      "genero": "Drama",
+      "id": 5
+    },
+    {
+      "titulo": "Vingadores: Ultimato",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-04-25T03:00:00.000Z",
+      "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+      "nota": 8.5,
+      "urlIMDb": "https://www.imdb.com/title/tt4154796/",
+      "genero": "Aventura",
+      "id": 6
+    },
+    {
+      "titulo": "Capitã Marvel",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-03-07T03:00:00.000Z",
+      "descricao": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt4154664/",
+      "genero": "Ação",
+      "id": 7
+    },
+    {
+      "titulo": "John Wick 3: Parabellum",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-05-16T03:00:00.000Z",
+      "descricao": "O lendário John Wick luta para sair de Nova York quando um contrato de 14 milhões de dólares faz dele o alvo dos maiores assassinos do mundo.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt6146586/",
+      "genero": "Ação",
+      "id": 9
+    },
+    {
+      "titulo": "Mistério no Mediterrâneo",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-06-14T03:00:00.000Z",
+      "descricao": "Nick Spitz (Adam Sandler) é um policial que há tempos tenta se tornar detetive, mas nunca consegue passar na prova para o cargo. Envergonhado, ele diz para sua esposa (Jennifer Aniston) que trabalha na função, pedindo ao melhor amigo que o ajude nesta mentira.",
+      "nota": 6,
+      "urlIMDb": "https://www.imdb.com/title/tt1618434/",
+      "genero": "Comédia",
+      "id": 10
+    },
+    {
+      "titulo": "Star Wars: A Ascensão Skywalker",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2019-12-19T03:00:00.000Z",
+      "descricao": "Com o retorno do Imperador Palpatine, a Resistência toma a frente da batalha. Treinando para ser uma completa Jedi, Rey se encontra em conflito com passado e futuro, e teme pelas respostas que pode conseguir com Kylo Ren.",
+      "nota": 6.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
+      "genero": "Aventura",
+      "id": 11
+    },
+    {
+      "titulo": "Free Guy: Assumindo o Controle",
+      "urlFoto": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zEAl0w90NxNcXtFPlHyivFlZkbt.jpg",
+      "dtLancamento": "2021-08-19T03:00:00.000Z",
+      "descricao": "Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando descobre que é um personagem em um jogo interativo. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.",
+      "nota": 7.6,
+      "urlIMDb": "https://www.imdb.com/title/tt6264654/?ref_=nv_sr_srsg_0",
+      "genero": "Comédia",
+      "id": 12
+    },
+    {
+      "titulo": "Harry Potter e o Cálice de Fogo ",
+      "urlFoto": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+      "dtLancamento": "2005-11-25T03:00:00.000Z",
+      "descricao": "Harry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com os seus amigos Ron e Hermione. Desta vez, acontece um torneio entre as três maiores escola de magia, com um participante selecionado de cada escola, pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir.",
+      "nota": 7.7,
+      "urlIMDb": "https://www.imdb.com/title/tt0330373/",
+      "genero": "Aventura",
+      "id": 13
+    },
+    {
+      "titulo": "Como Eu Era Antes de Você",
+      "urlFoto": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1a60KPNTC4JKYphNQveAB37Lyif.jpg",
+      "dtLancamento": "2016-03-02T03:00:00.000Z",
+      "descricao": "De origem modesta e sem grandes aspirações, a peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+      "nota": 7.4,
+      "urlIMDb": "https://www.imdb.com/title/tt2674426",
+      "genero": "Romance",
+      "id": 14
+    },
+    {
+      "titulo": "A Culpa é das Estrelas",
+      "urlFoto": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nEbSB6eCozhIZZORPAlNQLDDPDG.jpg",
+      "dtLancamento": "2016-07-15T03:00:00.000Z",
+      "descricao": "Hazel Grace Lancaster e Augustus Waters são dois adolescentes que se conhecem em um grupo de apoio para pacientes com câncer. Por causa da doença, Hazel sempre descartou a ideia de se envolver amorosamente, mas acaba cedendo ao se apaixonar por Augustus. Juntos, eles viajam para Amsterdã, onde embarcam em uma jornada inesquecível.",
+      "nota": 10,
+      "urlIMDb": "https://www.imdb.com/title/tt2582846/",
+      "genero": "Romance",
+      "id": 15
+    },
+    {
+      "titulo": "Esquadrão Suicida",
+      "urlFoto": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
+      "dtLancamento": "2021-08-19T03:00:00.000Z",
+      "descricao": "Os supervilões Harley Quinn (Margot Robbie), Bloodsport (Idris Elba), Peacemaker (John Cena) e uma coleção de malucos condenados da prisão de Belle Reve juntam-se à super-secreta e super-obscura Força Tarefa X, enquanto são deixados na remota ilha de Corto Maltese para combater o inimigo.",
+      "nota": 7.2,
+      "urlIMDb": null,
+      "genero": "Ação",
+      "id": 16
+    },
+    {
+      "titulo": "Velozes & Furiosos: Hobbs & Shaw",
+      "urlFoto": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+      "dtLancamento": "2019-10-01T03:00:00.000Z",
+      "descricao": "Desde que se conheceram, em \"Velozes & Furiosos 7\", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.",
+      "nota": 7.8,
+      "urlIMDb": null,
+      "genero": "Ação",
+      "id": 17
+    }
+  ]
+}
